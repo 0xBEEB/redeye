@@ -13,5 +13,5 @@ Install this plasmoid using `plasmapkg2 --install .` in the plasmoid directory.
 Both the on and off state icons can be configured to any arbitrary icon.
  
 ## Credits
-  - https://github.com/pmarki/plasmoid
+  - https://github.com/pmarki/plasmoid-button
   - https://github.com/rpallai/dap-locksw
